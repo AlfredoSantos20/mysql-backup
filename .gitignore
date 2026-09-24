@@ -1,0 +1,12 @@
+# Google OAuth client secret — never commit this.
+credentials.json
+
+# Cached OAuth session (contains your access/refresh tokens).
+token.pickle
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
